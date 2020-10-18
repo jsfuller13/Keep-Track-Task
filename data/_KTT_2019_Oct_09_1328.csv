@@ -1,0 +1,40 @@
+﻿word,category,Trial_Cats,Trial_File,Rdy_Txt,Practice.thisRepN,Practice.thisTrialN,Practice.thisN,Practice.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,words.thisRepN,words.thisTrialN,words.thisN,words.thisIndex,text.started,text.stopped,text_2.started,text_2.stopped,Stim_Word.started,Stim_Word.stopped,Categories.started,Categories.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+Miles,Distances,Distances  Metals  Relatives,,,0,0,0,0,,,,,,,,,8.626915100000133,None,10.877074900000025,None,12.109983400000147,None,12.109983400000147,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Inches,Distances,Distances  Metals  Relatives,,,0,1,1,1,,,,,,,,,,,,,13.692910300000221,None,13.692910300000221,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Aluminum,Metals,Distances  Metals  Relatives,,,0,2,2,2,,,,,,,,,,,,,15.076332399999956,None,15.076332399999956,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Iron,Metals,Distances  Metals  Relatives,,,0,3,3,3,,,,,,,,,,,,,16.576652900000227,None,16.576652900000227,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Aunt,Relatives,Distances  Metals  Relatives,,,0,4,4,4,,,,,,,,,,,,,18.076642500000162,None,18.076642500000162,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Father,Relatives,Distances  Metals  Relatives,,,0,5,5,5,,,,,,,,,,,,,19.57680210000035,None,19.57680210000035,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Daughter,Relatives,Distances  Metals  Relatives,,,0,6,6,6,,,,,,,,,,,,,21.076551699999982,None,21.076551699999982,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Father,Relatives,Distances  Metals  Relatives,,,0,7,7,7,,,,,,,,,,,,,22.57605740000008,None,22.57605740000008,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Inches,Distances,Distances  Metals  Relatives,,,0,8,8,8,,,,,,,,,,,,,24.07644150000033,None,24.07644150000033,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Daughter,Relatives,Distances  Metals  Relatives,,,0,9,9,9,,,,,,,,,,,,,25.576471200000015,None,25.576471200000015,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Miles,Distances,Distances  Metals  Relatives,,,0,10,10,10,,,,,,,,,,,,,27.076590399999986,None,27.076590399999986,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Aluminum,Metals,Distances  Metals  Relatives,,,0,11,11,11,,,,,,,,,,,,,28.576378100000056,None,28.576378100000056,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Iron,Metals,Distances  Metals  Relatives,,,0,12,12,12,,,,,,,,,,,,,30.076278800000182,None,30.076278800000182,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Aunt,Relatives,Distances  Metals  Relatives,,,0,13,13,13,,,,,,,,,,,,,31.576578700000027,None,31.576578700000027,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Red,Colors,Colors  Countries  Distances  Metals,Trial2.xlsx,"Please write down your answers.
+
+When you are ready for the next trial
+
+Press SPACE to begin.",,,,,0,0,0,0,0,0,0,0,,,,,45.14260600000034,None,45.14260600000034,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Blue,Colors,Colors  Countries  Distances  Metals,Trial2.xlsx,"Please write down your answers.
+
+When you are ready for the next trial
+
+Press SPACE to begin.",,,,,0,0,0,0,0,1,1,1,,,,,46.6092864000002,None,46.6092864000002,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Yellow,Colors,Colors  Countries  Distances  Metals,Trial2.xlsx,"Please write down your answers.
+
+When you are ready for the next trial
+
+Press SPACE to begin.",,,,,0,0,0,0,0,2,2,2,,,,,48.10919110000032,None,48.10919110000032,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Canada,Countries,Colors  Countries  Distances  Metals,Trial2.xlsx,"Please write down your answers.
+
+When you are ready for the next trial
+
+Press SPACE to begin.",,,,,0,0,0,0,0,3,3,3,,,,,49.60921550000012,None,49.60921550000012,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,
+Germany,Countries,Colors  Countries  Distances  Metals,Trial2.xlsx,"Please write down your answers.
+
+When you are ready for the next trial
+
+Press SPACE to begin.",,,,,0,0,0,0,0,4,4,4,,,,,51.10933860000023,None,51.10933860000023,None,,001,2019_Oct_09_1328,KTT,3.2.3,59.98127384637017,

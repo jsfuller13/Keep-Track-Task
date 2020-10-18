@@ -1,0 +1,399 @@
+35.9281 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [2880, 1800]. Using actual size
+37.0043 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001EC0AB82B00>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001EC17E5BCC0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+37.0044 	EXP 	window1: recordFrameIntervals = False
+37.1697 	EXP 	window1: recordFrameIntervals = True
+37.3534 	EXP 	window1: recordFrameIntervals = False
+37.7825 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+37.7970 	EXP 	Created prac_intro_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prac_intro_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+37.8967 	EXP 	Created prac_intro_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prac_intro_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+37.9077 	EXP 	Created prac_intr_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prac_intr_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to begin practice.', units='height', win=Window(...), wrapWidth=1)
+37.9503 	EXP 	Created Stim_Word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Stim_Word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+37.9671 	EXP 	Created Categories = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='Categories', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+38.0143 	EXP 	Created full_intro_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='full_intro_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+38.0234 	EXP 	Created full_intro_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='full_intro_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+38.0281 	EXP 	Created Stim_Word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Stim_Word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+38.0314 	EXP 	Created Categories = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='Categories', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+38.0377 	EXP 	Created Ready_Text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Ready_Text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+38.1203 	EXP 	text: autoDraw = True
+38.1203 	EXP 	prac_intro_cont: autoDraw = True
+324.8375 	DATA 	Keypress: space
+324.8807 	EXP 	text: autoDraw = False
+324.8807 	EXP 	prac_intro_cont: autoDraw = False
+324.8807 	EXP 	prac_intro_text: autoDraw = True
+324.8807 	EXP 	prac_intr_cont: autoDraw = True
+352.8203 	DATA 	Keypress: space
+352.9047 	EXP 	Imported Trial1.csv as conditions, 14 conditions, 3 params
+352.9052 	EXP 	Created sequence: sequential, trialTypes=14, nReps=1, seed=None
+352.9057 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+352.9632 	EXP 	prac_intro_text: autoDraw = False
+352.9632 	EXP 	prac_intr_cont: autoDraw = False
+352.9632 	EXP 	Stim_Word: text = 'Miles'
+352.9632 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+352.9632 	EXP 	Stim_Word: autoDraw = True
+352.9632 	EXP 	Categories: autoDraw = True
+354.3476 	EXP 	New trial (rep=0, index=1): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+354.3965 	EXP 	Stim_Word: autoDraw = False
+354.3965 	EXP 	Categories: autoDraw = False
+354.3965 	EXP 	Stim_Word: text = 'Inches'
+354.3965 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+354.3965 	EXP 	Stim_Word: autoDraw = True
+354.3965 	EXP 	Categories: autoDraw = True
+355.8476 	EXP 	New trial (rep=0, index=2): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+355.8968 	EXP 	Stim_Word: autoDraw = False
+355.8968 	EXP 	Categories: autoDraw = False
+355.8968 	EXP 	Stim_Word: text = 'Aluminum'
+355.8968 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+355.8968 	EXP 	Stim_Word: autoDraw = True
+355.8968 	EXP 	Categories: autoDraw = True
+357.3477 	EXP 	New trial (rep=0, index=3): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+357.3968 	EXP 	Stim_Word: autoDraw = False
+357.3968 	EXP 	Categories: autoDraw = False
+357.3968 	EXP 	Stim_Word: text = 'Iron'
+357.3968 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+357.3968 	EXP 	Stim_Word: autoDraw = True
+357.3968 	EXP 	Categories: autoDraw = True
+358.8476 	EXP 	New trial (rep=0, index=4): OrderedDict([('word', 'Aunt'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+358.8801 	EXP 	Stim_Word: autoDraw = False
+358.8801 	EXP 	Categories: autoDraw = False
+358.8801 	EXP 	Stim_Word: text = 'Aunt'
+358.8801 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+358.8801 	EXP 	Stim_Word: autoDraw = True
+358.8801 	EXP 	Categories: autoDraw = True
+360.3476 	EXP 	New trial (rep=0, index=5): OrderedDict([('word', 'Father'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+360.3800 	EXP 	Stim_Word: autoDraw = False
+360.3800 	EXP 	Categories: autoDraw = False
+360.3800 	EXP 	Stim_Word: text = 'Father'
+360.3800 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+360.3800 	EXP 	Stim_Word: autoDraw = True
+360.3800 	EXP 	Categories: autoDraw = True
+361.8476 	EXP 	New trial (rep=0, index=6): OrderedDict([('word', 'Daughter'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+361.8967 	EXP 	Stim_Word: autoDraw = False
+361.8967 	EXP 	Categories: autoDraw = False
+361.8967 	EXP 	Stim_Word: text = 'Daughter'
+361.8967 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+361.8967 	EXP 	Stim_Word: autoDraw = True
+361.8967 	EXP 	Categories: autoDraw = True
+363.3476 	EXP 	New trial (rep=0, index=7): OrderedDict([('word', 'Father'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+363.3799 	EXP 	Stim_Word: autoDraw = False
+363.3799 	EXP 	Categories: autoDraw = False
+363.3799 	EXP 	Stim_Word: text = 'Father'
+363.3799 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+363.3799 	EXP 	Stim_Word: autoDraw = True
+363.3799 	EXP 	Categories: autoDraw = True
+364.8474 	EXP 	New trial (rep=0, index=8): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+364.8800 	EXP 	Stim_Word: autoDraw = False
+364.8800 	EXP 	Categories: autoDraw = False
+364.8800 	EXP 	Stim_Word: text = 'Inches'
+364.8800 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+364.8800 	EXP 	Stim_Word: autoDraw = True
+364.8800 	EXP 	Categories: autoDraw = True
+366.3475 	EXP 	New trial (rep=0, index=9): OrderedDict([('word', 'Daughter'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+366.3800 	EXP 	Stim_Word: autoDraw = False
+366.3800 	EXP 	Categories: autoDraw = False
+366.3800 	EXP 	Stim_Word: text = 'Daughter'
+366.3800 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+366.3800 	EXP 	Stim_Word: autoDraw = True
+366.3800 	EXP 	Categories: autoDraw = True
+367.8475 	EXP 	New trial (rep=0, index=10): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+367.8799 	EXP 	Stim_Word: autoDraw = False
+367.8799 	EXP 	Categories: autoDraw = False
+367.8799 	EXP 	Stim_Word: text = 'Miles'
+367.8799 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+367.8799 	EXP 	Stim_Word: autoDraw = True
+367.8799 	EXP 	Categories: autoDraw = True
+369.3474 	EXP 	New trial (rep=0, index=11): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+369.3799 	EXP 	Stim_Word: autoDraw = False
+369.3799 	EXP 	Categories: autoDraw = False
+369.3799 	EXP 	Stim_Word: text = 'Aluminum'
+369.3799 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+369.3799 	EXP 	Stim_Word: autoDraw = True
+369.3799 	EXP 	Categories: autoDraw = True
+370.8473 	EXP 	New trial (rep=0, index=12): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+370.8798 	EXP 	Stim_Word: autoDraw = False
+370.8798 	EXP 	Categories: autoDraw = False
+370.8798 	EXP 	Stim_Word: text = 'Iron'
+370.8798 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+370.8798 	EXP 	Stim_Word: autoDraw = True
+370.8798 	EXP 	Categories: autoDraw = True
+372.3473 	EXP 	New trial (rep=0, index=13): OrderedDict([('word', 'Aunt'), ('category', 'Relatives'), ('Trial_Cats', 'Distances  Metals  Relatives')])
+372.3799 	EXP 	Stim_Word: autoDraw = False
+372.3799 	EXP 	Categories: autoDraw = False
+372.3799 	EXP 	Stim_Word: text = 'Aunt'
+372.3799 	EXP 	Categories: text = 'Distances  Metals  Relatives'
+372.3799 	EXP 	Stim_Word: autoDraw = True
+372.3799 	EXP 	Categories: autoDraw = True
+373.8631 	EXP 	Stim_Word: autoDraw = False
+373.8631 	EXP 	Categories: autoDraw = False
+373.8631 	EXP 	full_intro_txt: autoDraw = True
+373.8631 	EXP 	full_intro_cont: autoDraw = True
+390.7256 	EXP 	Imported Choose_Trial.csv as conditions, 6 conditions, 2 params
+390.7262 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+390.7269 	EXP 	New trial (rep=0, index=0): OrderedDict([('Trial_File', 'Trial2.xlsx'), ('Rdy_Txt', 'Please write down your answers.\n\nWhen you are ready for the next trial\n\nPress SPACE to begin.')])
+390.7789 	EXP 	Imported Trial2.xlsx as conditions, 18 conditions, 3 params
+390.7796 	EXP 	Created sequence: sequential, trialTypes=18, nReps=1, seed=None
+390.7803 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'Red'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+390.8150 	DATA 	Keypress: space
+390.8294 	EXP 	full_intro_txt: autoDraw = False
+390.8294 	EXP 	full_intro_cont: autoDraw = False
+390.8294 	EXP 	Stim_Word: text = 'Red'
+390.8294 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+390.8294 	EXP 	Stim_Word: autoDraw = True
+390.8294 	EXP 	Categories: autoDraw = True
+392.2302 	EXP 	New trial (rep=0, index=1): OrderedDict([('word', 'Blue'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+392.2628 	EXP 	Stim_Word: autoDraw = False
+392.2628 	EXP 	Categories: autoDraw = False
+392.2628 	EXP 	Stim_Word: text = 'Blue'
+392.2628 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+392.2628 	EXP 	Stim_Word: autoDraw = True
+392.2628 	EXP 	Categories: autoDraw = True
+393.7303 	EXP 	New trial (rep=0, index=2): OrderedDict([('word', 'Yellow'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+393.7794 	EXP 	Stim_Word: autoDraw = False
+393.7794 	EXP 	Categories: autoDraw = False
+393.7794 	EXP 	Stim_Word: text = 'Yellow'
+393.7794 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+393.7794 	EXP 	Stim_Word: autoDraw = True
+393.7794 	EXP 	Categories: autoDraw = True
+395.2303 	EXP 	New trial (rep=0, index=3): OrderedDict([('word', 'Canada'), ('category', 'Countries'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+395.2795 	EXP 	Stim_Word: autoDraw = False
+395.2795 	EXP 	Categories: autoDraw = False
+395.2795 	EXP 	Stim_Word: text = 'Canada'
+395.2795 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+395.2795 	EXP 	Stim_Word: autoDraw = True
+395.2795 	EXP 	Categories: autoDraw = True
+396.7302 	EXP 	New trial (rep=0, index=4): OrderedDict([('word', 'Germany'), ('category', 'Countries'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+396.7794 	EXP 	Stim_Word: autoDraw = False
+396.7794 	EXP 	Categories: autoDraw = False
+396.7794 	EXP 	Stim_Word: text = 'Germany'
+396.7794 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+396.7794 	EXP 	Stim_Word: autoDraw = True
+396.7794 	EXP 	Categories: autoDraw = True
+398.2302 	EXP 	New trial (rep=0, index=5): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+398.2627 	EXP 	Stim_Word: autoDraw = False
+398.2627 	EXP 	Categories: autoDraw = False
+398.2627 	EXP 	Stim_Word: text = 'Miles'
+398.2627 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+398.2627 	EXP 	Stim_Word: autoDraw = True
+398.2627 	EXP 	Categories: autoDraw = True
+399.7302 	EXP 	New trial (rep=0, index=6): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+399.7627 	EXP 	Stim_Word: autoDraw = False
+399.7627 	EXP 	Categories: autoDraw = False
+399.7627 	EXP 	Stim_Word: text = 'Inches'
+399.7627 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+399.7627 	EXP 	Stim_Word: autoDraw = True
+399.7627 	EXP 	Categories: autoDraw = True
+401.2301 	EXP 	New trial (rep=0, index=7): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+401.2627 	EXP 	Stim_Word: autoDraw = False
+401.2627 	EXP 	Categories: autoDraw = False
+401.2627 	EXP 	Stim_Word: text = 'Aluminum'
+401.2627 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+401.2627 	EXP 	Stim_Word: autoDraw = True
+401.2627 	EXP 	Categories: autoDraw = True
+402.7301 	EXP 	New trial (rep=0, index=8): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+402.7627 	EXP 	Stim_Word: autoDraw = False
+402.7627 	EXP 	Categories: autoDraw = False
+402.7627 	EXP 	Stim_Word: text = 'Iron'
+402.7627 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+402.7627 	EXP 	Stim_Word: autoDraw = True
+402.7627 	EXP 	Categories: autoDraw = True
+404.2301 	EXP 	New trial (rep=0, index=9): OrderedDict([('word', 'Yellow'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+404.2626 	EXP 	Stim_Word: autoDraw = False
+404.2626 	EXP 	Categories: autoDraw = False
+404.2626 	EXP 	Stim_Word: text = 'Yellow'
+404.2626 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+404.2626 	EXP 	Stim_Word: autoDraw = True
+404.2626 	EXP 	Categories: autoDraw = True
+405.7300 	EXP 	New trial (rep=0, index=10): OrderedDict([('word', 'Blue'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+405.7626 	EXP 	Stim_Word: autoDraw = False
+405.7626 	EXP 	Categories: autoDraw = False
+405.7626 	EXP 	Stim_Word: text = 'Blue'
+405.7626 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+405.7626 	EXP 	Stim_Word: autoDraw = True
+405.7626 	EXP 	Categories: autoDraw = True
+407.2300 	EXP 	New trial (rep=0, index=11): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+407.2625 	EXP 	Stim_Word: autoDraw = False
+407.2625 	EXP 	Categories: autoDraw = False
+407.2625 	EXP 	Stim_Word: text = 'Inches'
+407.2625 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+407.2625 	EXP 	Stim_Word: autoDraw = True
+407.2625 	EXP 	Categories: autoDraw = True
+408.7299 	EXP 	New trial (rep=0, index=12): OrderedDict([('word', 'Germany'), ('category', 'Countries'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+408.7625 	EXP 	Stim_Word: autoDraw = False
+408.7625 	EXP 	Categories: autoDraw = False
+408.7625 	EXP 	Stim_Word: text = 'Germany'
+408.7625 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+408.7625 	EXP 	Stim_Word: autoDraw = True
+408.7625 	EXP 	Categories: autoDraw = True
+410.2300 	EXP 	New trial (rep=0, index=13): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+410.2625 	EXP 	Stim_Word: autoDraw = False
+410.2625 	EXP 	Categories: autoDraw = False
+410.2625 	EXP 	Stim_Word: text = 'Miles'
+410.2625 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+410.2625 	EXP 	Stim_Word: autoDraw = True
+410.2625 	EXP 	Categories: autoDraw = True
+411.7300 	EXP 	New trial (rep=0, index=14): OrderedDict([('word', 'Red'), ('category', 'Colors'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+411.7624 	EXP 	Stim_Word: autoDraw = False
+411.7624 	EXP 	Categories: autoDraw = False
+411.7624 	EXP 	Stim_Word: text = 'Red'
+411.7624 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+411.7624 	EXP 	Stim_Word: autoDraw = True
+411.7624 	EXP 	Categories: autoDraw = True
+413.2299 	EXP 	New trial (rep=0, index=15): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+413.2624 	EXP 	Stim_Word: autoDraw = False
+413.2624 	EXP 	Categories: autoDraw = False
+413.2624 	EXP 	Stim_Word: text = 'Aluminum'
+413.2624 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+413.2624 	EXP 	Stim_Word: autoDraw = True
+413.2624 	EXP 	Categories: autoDraw = True
+414.7299 	EXP 	New trial (rep=0, index=16): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+414.7623 	EXP 	Stim_Word: autoDraw = False
+414.7623 	EXP 	Categories: autoDraw = False
+414.7623 	EXP 	Stim_Word: text = 'Iron'
+414.7623 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+414.7623 	EXP 	Stim_Word: autoDraw = True
+414.7623 	EXP 	Categories: autoDraw = True
+416.2297 	EXP 	New trial (rep=0, index=17): OrderedDict([('word', 'Canada'), ('category', 'Countries'), ('Trial_Cats', 'Colors  Countries  Distances  Metals')])
+416.2624 	EXP 	Stim_Word: autoDraw = False
+416.2624 	EXP 	Categories: autoDraw = False
+416.2624 	EXP 	Stim_Word: text = 'Canada'
+416.2624 	EXP 	Categories: text = 'Colors  Countries  Distances  Metals'
+416.2624 	EXP 	Stim_Word: autoDraw = True
+416.2624 	EXP 	Categories: autoDraw = True
+417.8289 	EXP 	Stim_Word: autoDraw = False
+417.8289 	EXP 	Categories: autoDraw = False
+417.8289 	EXP 	Ready_Text: text = 'Please write down your answers.\n\nWhen you are ready for the next trial\n\nPress SPACE to begin.'
+417.8289 	EXP 	Ready_Text: autoDraw = True
+425.2346 	DATA 	Keypress: space
+425.2502 	EXP 	New trial (rep=0, index=1): OrderedDict([('Trial_File', 'Trial3.xlsx'), ('Rdy_Txt', 'Please write down your answers.\n\nWhen you are ready for the next trial\n\nPress SPACE to begin.')])
+425.2918 	EXP 	Imported Trial3.xlsx as conditions, 18 conditions, 3 params
+425.2925 	EXP 	Created sequence: sequential, trialTypes=18, nReps=1, seed=None
+425.2933 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'Canada'), ('category', 'Countries'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+425.3287 	EXP 	Ready_Text: autoDraw = False
+425.3287 	EXP 	Stim_Word: text = 'Canada'
+425.3287 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+425.3287 	EXP 	Stim_Word: autoDraw = True
+425.3287 	EXP 	Categories: autoDraw = True
+426.7622 	EXP 	New trial (rep=0, index=1): OrderedDict([('word', 'Germany'), ('category', 'Countries'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+426.7785 	EXP 	Stim_Word: autoDraw = False
+426.7785 	EXP 	Categories: autoDraw = False
+426.7785 	EXP 	Stim_Word: text = 'Germany'
+426.7785 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+426.7785 	EXP 	Stim_Word: autoDraw = True
+426.7785 	EXP 	Categories: autoDraw = True
+428.2621 	EXP 	New trial (rep=0, index=2): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+428.2784 	EXP 	Stim_Word: autoDraw = False
+428.2784 	EXP 	Categories: autoDraw = False
+428.2784 	EXP 	Stim_Word: text = 'Miles'
+428.2784 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+428.2784 	EXP 	Stim_Word: autoDraw = True
+428.2784 	EXP 	Categories: autoDraw = True
+429.7621 	EXP 	New trial (rep=0, index=3): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+429.7783 	EXP 	Stim_Word: autoDraw = False
+429.7783 	EXP 	Categories: autoDraw = False
+429.7783 	EXP 	Stim_Word: text = 'Inches'
+429.7783 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+429.7783 	EXP 	Stim_Word: autoDraw = True
+429.7783 	EXP 	Categories: autoDraw = True
+431.2620 	EXP 	New trial (rep=0, index=4): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+431.2784 	EXP 	Stim_Word: autoDraw = False
+431.2784 	EXP 	Categories: autoDraw = False
+431.2784 	EXP 	Stim_Word: text = 'Aluminum'
+431.2784 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+431.2784 	EXP 	Stim_Word: autoDraw = True
+431.2784 	EXP 	Categories: autoDraw = True
+432.7620 	EXP 	New trial (rep=0, index=5): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+432.7783 	EXP 	Stim_Word: autoDraw = False
+432.7783 	EXP 	Categories: autoDraw = False
+432.7783 	EXP 	Stim_Word: text = 'Iron'
+432.7783 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+432.7783 	EXP 	Stim_Word: autoDraw = True
+432.7783 	EXP 	Categories: autoDraw = True
+434.2620 	EXP 	New trial (rep=0, index=6): OrderedDict([('word', 'Aunt'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+434.2783 	EXP 	Stim_Word: autoDraw = False
+434.2783 	EXP 	Categories: autoDraw = False
+434.2783 	EXP 	Stim_Word: text = 'Aunt'
+434.2783 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+434.2783 	EXP 	Stim_Word: autoDraw = True
+434.2783 	EXP 	Categories: autoDraw = True
+435.7620 	EXP 	New trial (rep=0, index=7): OrderedDict([('word', 'Father'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+435.7783 	EXP 	Stim_Word: autoDraw = False
+435.7783 	EXP 	Categories: autoDraw = False
+435.7783 	EXP 	Stim_Word: text = 'Father'
+435.7783 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+435.7783 	EXP 	Stim_Word: autoDraw = True
+435.7783 	EXP 	Categories: autoDraw = True
+437.2620 	EXP 	New trial (rep=0, index=8): OrderedDict([('word', 'Daughter'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+437.2782 	EXP 	Stim_Word: autoDraw = False
+437.2782 	EXP 	Categories: autoDraw = False
+437.2782 	EXP 	Stim_Word: text = 'Daughter'
+437.2782 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+437.2782 	EXP 	Stim_Word: autoDraw = True
+437.2782 	EXP 	Categories: autoDraw = True
+438.7620 	EXP 	New trial (rep=0, index=9): OrderedDict([('word', 'Iron'), ('category', 'Metals'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+438.7782 	EXP 	Stim_Word: autoDraw = False
+438.7782 	EXP 	Categories: autoDraw = False
+438.7782 	EXP 	Stim_Word: text = 'Iron'
+438.7782 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+438.7782 	EXP 	Stim_Word: autoDraw = True
+438.7782 	EXP 	Categories: autoDraw = True
+440.2619 	EXP 	New trial (rep=0, index=10): OrderedDict([('word', 'Father'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+440.2782 	EXP 	Stim_Word: autoDraw = False
+440.2782 	EXP 	Categories: autoDraw = False
+440.2782 	EXP 	Stim_Word: text = 'Father'
+440.2782 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+440.2782 	EXP 	Stim_Word: autoDraw = True
+440.2782 	EXP 	Categories: autoDraw = True
+441.7619 	EXP 	New trial (rep=0, index=11): OrderedDict([('word', 'Germany'), ('category', 'Countries'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+441.7781 	EXP 	Stim_Word: autoDraw = False
+441.7781 	EXP 	Categories: autoDraw = False
+441.7781 	EXP 	Stim_Word: text = 'Germany'
+441.7781 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+441.7781 	EXP 	Stim_Word: autoDraw = True
+441.7781 	EXP 	Categories: autoDraw = True
+443.2619 	EXP 	New trial (rep=0, index=12): OrderedDict([('word', 'Aluminum'), ('category', 'Metals'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+443.2781 	EXP 	Stim_Word: autoDraw = False
+443.2781 	EXP 	Categories: autoDraw = False
+443.2781 	EXP 	Stim_Word: text = 'Aluminum'
+443.2781 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+443.2781 	EXP 	Stim_Word: autoDraw = True
+443.2781 	EXP 	Categories: autoDraw = True
+444.7617 	EXP 	New trial (rep=0, index=13): OrderedDict([('word', 'Daughter'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+444.7780 	EXP 	Stim_Word: autoDraw = False
+444.7780 	EXP 	Categories: autoDraw = False
+444.7780 	EXP 	Stim_Word: text = 'Daughter'
+444.7780 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+444.7780 	EXP 	Stim_Word: autoDraw = True
+444.7780 	EXP 	Categories: autoDraw = True
+446.2618 	EXP 	New trial (rep=0, index=14): OrderedDict([('word', 'Miles'), ('category', 'Distances'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+446.2781 	EXP 	Stim_Word: autoDraw = False
+446.2781 	EXP 	Categories: autoDraw = False
+446.2781 	EXP 	Stim_Word: text = 'Miles'
+446.2781 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+446.2781 	EXP 	Stim_Word: autoDraw = True
+446.2781 	EXP 	Categories: autoDraw = True
+447.7625 	EXP 	New trial (rep=0, index=15): OrderedDict([('word', 'Canada'), ('category', 'Countries'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+447.7951 	EXP 	Stim_Word: autoDraw = False
+447.7951 	EXP 	Categories: autoDraw = False
+447.7951 	EXP 	Stim_Word: text = 'Canada'
+447.7951 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+447.7951 	EXP 	Stim_Word: autoDraw = True
+447.7951 	EXP 	Categories: autoDraw = True
+449.2625 	EXP 	New trial (rep=0, index=16): OrderedDict([('word', 'Aunt'), ('category', 'Relatives'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+449.3616 	EXP 	Stim_Word: autoDraw = False
+449.3616 	EXP 	Categories: autoDraw = False
+449.3616 	EXP 	Stim_Word: text = 'Aunt'
+449.3616 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+449.3616 	EXP 	Stim_Word: autoDraw = True
+449.3616 	EXP 	Categories: autoDraw = True
+450.7624 	EXP 	New trial (rep=0, index=17): OrderedDict([('word', 'Inches'), ('category', 'Distances'), ('Trial_Cats', 'Countries  Distances  Metals  Relatives')])
+450.7950 	EXP 	Stim_Word: autoDraw = False
+450.7950 	EXP 	Categories: autoDraw = False
+450.7950 	EXP 	Stim_Word: text = 'Inches'
+450.7950 	EXP 	Categories: text = 'Countries  Distances  Metals  Relatives'
+450.7950 	EXP 	Stim_Word: autoDraw = True
+450.7950 	EXP 	Categories: autoDraw = True
+452.2783 	EXP 	Stim_Word: autoDraw = False
+452.2783 	EXP 	Categories: autoDraw = False
+452.2783 	EXP 	Ready_Text: text = 'Please write down your answers.\n\nWhen you are ready for the next trial\n\nPress SPACE to begin.'
+452.2783 	EXP 	Ready_Text: autoDraw = True
+494.7501 	DATA 	Keypress: escape
+494.9413 	EXP 	window1: mouseVisible = True

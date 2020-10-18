@@ -1,0 +1,110 @@
+﻿word,category,Trial_Cats,Trial_File,Rdy_Txt,Practice.thisRepN,Practice.thisTrialN,Practice.thisN,Practice.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,text.started,text.stopped,text_2.started,text_2.stopped,Stim_Word.started,Stim_Word.stopped,Categories.started,Categories.stopped,Ready_Text.started,Ready_Text.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+Miles,Distances,Distances  Metals  Relatives,,,0,0,0,0,,,,,,,,,209.87790134199895,None,212.27665739199983,None,214.37853879799877,None,214.37853879799877,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Inches,Distances,Distances  Metals  Relatives,,,0,1,1,1,,,,,,,,,,,,,215.86101863099975,None,215.86101863099975,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aluminum,Metals,Distances  Metals  Relatives,,,0,2,2,2,,,,,,,,,,,,,217.35946784899897,217.35946784899897,217.35946784899897,217.35946784899897,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Iron,Metals,Distances  Metals  Relatives,,,0,3,3,3,,,,,,,,,,,,,218.86016164099965,None,218.86016164099965,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aunt,Relatives,Distances  Metals  Relatives,,,0,4,4,4,,,,,,,,,,,,,220.34801203699863,None,220.34801203699863,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Father,Relatives,Distances  Metals  Relatives,,,0,5,5,5,,,,,,,,,,,,,221.86194029699982,None,221.86194029699982,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Daughter,Relatives,Distances  Metals  Relatives,,,0,6,6,6,,,,,,,,,,,,,223.35987895200014,None,223.35987895200014,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Father,Relatives,Distances  Metals  Relatives,,,0,7,7,7,,,,,,,,,,,,,224.860054236,None,224.860054236,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Inches,Distances,Distances  Metals  Relatives,,,0,8,8,8,,,,,,,,,,,,,226.3599030839996,None,226.3599030839996,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Daughter,Relatives,Distances  Metals  Relatives,,,0,9,9,9,,,,,,,,,,,,,227.8600269689996,None,227.8600269689996,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Miles,Distances,Distances  Metals  Relatives,,,0,10,10,10,,,,,,,,,,,,,229.36031471499882,None,229.36031471499882,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aluminum,Metals,Distances  Metals  Relatives,,,0,11,11,11,,,,,,,,,,,,,230.8609185819987,None,230.8609185819987,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Iron,Metals,Distances  Metals  Relatives,,,0,12,12,12,,,,,,,,,,,,,232.3602751269991,None,232.3602751269991,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aunt,Relatives,Distances  Metals  Relatives,,,0,13,13,13,,,,,,,,,,,,,233.86076141400008,None,233.86076141400008,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Red,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,0,0,0,,,,,241.1093028409996,None,241.1093028409996,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Blue,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,1,1,1,,,,,242.59224331099904,None,242.59224331099904,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Yellow,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,2,2,2,,,,,244.09444342699862,None,244.09444342699862,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Canada,Countries,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,3,3,3,,,,,245.59281288799866,None,245.59281288799866,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Germany,Countries,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,4,4,4,,,,,247.09441415499896,None,247.09441415499896,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Miles,Distances,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,5,5,5,,,,,248.59282008899936,None,248.59282008899936,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Inches,Distances,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,6,6,6,,,,,250.09366105299887,None,250.09366105299887,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aluminum,Metals,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,7,7,7,,,,,251.59315271800006,None,251.59315271800006,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Iron,Metals,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,8,8,8,,,,,253.0945318539998,None,253.0945318539998,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Yellow,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,9,9,9,,,,,254.59374011399996,None,254.59374011399996,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Blue,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,10,10,10,,,,,256.09234400899913,256.09234400899913,256.09234400899913,256.09234400899913,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Inches,Distances,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,11,11,11,,,,,257.59244969499923,None,257.59244969499923,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Germany,Countries,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,12,12,12,,,,,259.0936820329989,None,259.0936820329989,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Miles,Distances,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,13,13,13,,,,,260.59437120499933,None,260.59437120499933,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Red,Colors,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,14,14,14,,,,,262.09304982199865,262.09304982199865,262.09304982199865,262.09304982199865,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Aluminum,Metals,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,15,15,15,,,,,263.5924695119993,None,263.5924695119993,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Iron,Metals,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,16,16,16,,,,,265.09242673100016,None,265.09242673100016,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+Canada,Countries,Colors  Countries  Distances  Metals,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,0,17,17,17,,,,,266.59387036099906,None,266.59387036099906,None,,,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,
+,,,Trial2.csv,"Please write down your answers.
+
+When you are ready for the next trial...
+
+Press SPACE to begin.",,,,,0,0,0,0,,,,,,,,,,,,,268.4083956229988,None,1,001,2019_Jul_30_1425,KTT,3.1.5,60.258035755208816,

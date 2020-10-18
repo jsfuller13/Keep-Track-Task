@@ -1,0 +1,76 @@
+70.3728 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+71.3156 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x13443c160>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13ad97588>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+71.3157 	EXP 	window1: recordFrameIntervals = False
+71.4821 	EXP 	window1: recordFrameIntervals = True
+71.6648 	EXP 	window1: recordFrameIntervals = False
+74.0792 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+74.1113 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+74.1192 	EXP 	Created Stim_Word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Stim_Word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+74.1325 	EXP 	Created Categories = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='Categories', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+74.1862 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+74.1900 	EXP 	Created Stim_Word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Stim_Word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+74.1975 	EXP 	Created Categories = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='Categories', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+74.5440 	EXP 	text: autoDraw = True
+77.2680 	DATA 	Keypress: space
+77.2902 	EXP 	text: autoDraw = False
+77.2902 	EXP 	text_2: autoDraw = True
+78.3484 	EXP 	Imported KTT_Practice.xlsx as conditions, 13 conditions, 4 params
+78.3487 	EXP 	Created sequence: sequential, trialTypes=13, nReps=1, seed=None
+78.3490 	EXP 	New trial (rep=0, index=0): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Aluminum'), ('category', 'Metals')])
+78.3599 	DATA 	Keypress: space
+78.3862 	EXP 	text_2: autoDraw = False
+78.3862 	EXP 	Stim_Word: text = 'Aluminum'
+78.3862 	EXP 	Stim_Word: autoDraw = True
+78.3862 	EXP 	Categories: autoDraw = True
+79.8209 	EXP 	New trial (rep=0, index=1): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Iron'), ('category', 'Metals')])
+79.8523 	EXP 	Stim_Word: autoDraw = False
+79.8523 	EXP 	Categories: autoDraw = False
+79.8523 	EXP 	Stim_Word: text = 'Iron'
+79.8523 	EXP 	Stim_Word: autoDraw = True
+79.8523 	EXP 	Categories: autoDraw = True
+81.3196 	EXP 	New trial (rep=0, index=2): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Aunt'), ('category', 'Relatives')])
+81.3399 	EXP 	Stim_Word: autoDraw = False
+81.3399 	EXP 	Categories: autoDraw = False
+81.3399 	EXP 	Stim_Word: autoDraw = False
+81.3399 	EXP 	Categories: autoDraw = False
+81.3399 	EXP 	Stim_Word: text = 'Aunt'
+81.3399 	EXP 	Stim_Word: autoDraw = True
+81.3399 	EXP 	Categories: autoDraw = True
+82.8202 	EXP 	New trial (rep=0, index=3): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Father'), ('category', 'Relatives')])
+82.8525 	EXP 	Stim_Word: autoDraw = False
+82.8525 	EXP 	Categories: autoDraw = False
+82.8525 	EXP 	Stim_Word: text = 'Father'
+82.8525 	EXP 	Stim_Word: autoDraw = True
+82.8525 	EXP 	Categories: autoDraw = True
+84.3206 	EXP 	New trial (rep=0, index=4): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Daughter'), ('category', 'Relatives')])
+84.3526 	EXP 	Stim_Word: autoDraw = False
+84.3526 	EXP 	Categories: autoDraw = False
+84.3526 	EXP 	Stim_Word: text = 'Daughter'
+84.3526 	EXP 	Stim_Word: autoDraw = True
+84.3526 	EXP 	Categories: autoDraw = True
+85.8201 	EXP 	New trial (rep=0, index=5): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Father'), ('category', 'Relatives')])
+85.8525 	EXP 	Stim_Word: autoDraw = False
+85.8525 	EXP 	Categories: autoDraw = False
+85.8525 	EXP 	Stim_Word: text = 'Father'
+85.8525 	EXP 	Stim_Word: autoDraw = True
+85.8525 	EXP 	Categories: autoDraw = True
+87.3205 	EXP 	New trial (rep=0, index=6): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Inches'), ('category', 'Distances')])
+87.3524 	EXP 	Stim_Word: autoDraw = False
+87.3524 	EXP 	Categories: autoDraw = False
+87.3524 	EXP 	Stim_Word: text = 'Inches'
+87.3524 	EXP 	Stim_Word: autoDraw = True
+87.3524 	EXP 	Categories: autoDraw = True
+88.8206 	EXP 	New trial (rep=0, index=7): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Daughter'), ('category', 'Relatives')])
+88.8520 	EXP 	Stim_Word: autoDraw = False
+88.8520 	EXP 	Categories: autoDraw = False
+88.8520 	EXP 	Stim_Word: text = 'Daughter'
+88.8520 	EXP 	Stim_Word: autoDraw = True
+88.8520 	EXP 	Categories: autoDraw = True
+90.3200 	EXP 	New trial (rep=0, index=8): OrderedDict([('Trial', 1), ('Num_Cat', 3), ('word', 'Miles'), ('category', 'Distances')])
+90.3520 	EXP 	Stim_Word: autoDraw = False
+90.3520 	EXP 	Categories: autoDraw = False
+90.3520 	EXP 	Stim_Word: text = 'Miles'
+90.3520 	EXP 	Stim_Word: autoDraw = True
+90.3520 	EXP 	Categories: autoDraw = True
+91.6571 	DATA 	Keypress: escape
+92.0397 	EXP 	window1: mouseVisible = True
